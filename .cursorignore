@@ -1,0 +1,3 @@
+# Cursor IDE Ignore File
+# This file tells Cursor what to ignore
+# We're explicitly NOT ignoring .env so it can be edited
